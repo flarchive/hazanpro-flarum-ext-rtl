@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of hazanpro/flarum-ext-rtl.** Not for installation: use [Packagist](https://packagist.org/packages/hazanpro/flarum-ext-rtl) or the [upstream repository](https://github.com/hazanpro/flarum-ext-rtl).
 
-**0** versions archived · Latest: [`v0.1.2`](https://github.com/flarchive/hazanpro-flarum-ext-rtl/tree/archive/v0.1.2) · License: `MIT` · Flarum: `^0.1.0-beta.5`
+**1** versions archived · Latest: [`v0.1.2`](https://github.com/flarchive/hazanpro-flarum-ext-rtl/tree/archive/v0.1.2) · License: `MIT` · Flarum: `^0.1.0-beta.5`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.2` | 2016-05-16 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/hazanpro-flarum-ext-rtl/tree/archive/v0.1.2) |
 
 Catalog entry: [packages/hazanpro-flarum-ext-rtl.json](https://github.com/flarchive/archive-index/blob/main/packages/hazanpro-flarum-ext-rtl.json)
 
